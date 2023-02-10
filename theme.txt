@@ -45,7 +45,8 @@ linestatus.bgcolor = #404040
 
 # foreground and background colors
 editor.fgcolor = #d9d9d9
-editor.bgcolor = #202020
+editor.bgcolor = #000000
+editor.font = Consolas,plain,14
 
 # highlight for the current line
 editor.linehighlight.color=#333333
