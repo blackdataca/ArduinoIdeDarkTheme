@@ -60,7 +60,7 @@ editor.caret.color = #a0a0a0
 editor.external.bgcolor = #202020
 
 # selection color
-editor.selection.color = #dd8800
+editor.selection.color = #333333
 
 # area that's not in use by the text (replaced with tildes)
 editor.invalid.style = #7e7e7e,bold
@@ -116,9 +116,8 @@ editor.label.style = #7e7e7e,bold
 
 
 # TEXT - COMMENTS
-editor.comment1.style = #aaaaaa,plain
-editor.comment2.style = #aaaaaa,plain
-
+editor.comment1.style = #00ff00,plain
+editor.comment2.style = #00ff00,plain
 
 # LINE STATUS - editor line number status bar at the bottom of the screen
 linestatus.font	   = SansSerif,plain,10
