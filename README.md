@@ -8,9 +8,9 @@ Tested with Arduino version 1.8.57.0 from Microsoft Store.
 
 ### INSTALLATION  
 
-* Copy all contents into Sketchbook location. Default is `C:\Users\[yourname]\Documents\Arduino\theme`  
+* Copy all contents into `theme` in Sketchbook location. Default is `C:\Users\[yourname]\Documents\Arduino\theme`  
 or
-* Clone whole project into Sketchbook location. Default is `C:\Users\[yourname]\Documents\Arduino\theme` (Target is `theme`, not `ArduinoIdeDarkTheme`)
+* Clone whole project into `theme` in Sketchbook location. Default is `C:\Users\[yourname]\Documents\Arduino\theme` (Target is `theme`, not `ArduinoIdeDarkTheme`)
 
 ![screenshot](https://raw.githubusercontent.com/blackdataca/ArduinoIdeDarkTheme/master/clone_screen.PNG)
 * Restart Arduino IDE
