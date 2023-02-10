@@ -11,7 +11,8 @@ Tested with Arduino version 1.8.57.0 from Microsoft Store.
 * Copy all contents into `C:\Users\[yourname]\Documents\Arduino\theme`.  
 or
 * Clone whole project into `C:\Users\[yourname]\Documents\Arduino\theme` (Target is `theme`, not `ArduinoIdeDarkTheme`)
-![screenshot](https://raw.githubusercontent.com/blackdata/ArduinoIdeDarkTheme/master/clone_screen.PNG)
+
+![screenshot](https://raw.githubusercontent.com/blackdataca/ArduinoIdeDarkTheme/master/clone_screen.PNG)
 * Restart Arduino IDE.
 
 ### CREATING YOUR OWN MODS
