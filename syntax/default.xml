@@ -46,9 +46,9 @@
       <style token="FUNCTION" fg="E0E2E4"/>
       <style token="DATA_TYPE" fg="678CB1" bold="true"/>
       <style token="LITERAL_BOOLEAN" fg="93C763" bold="true"/>
-      <style token="LITERAL_NUMBER_DECIMAL_INT" fg="FFCD22"/>
-      <style token="LITERAL_NUMBER_FLOAT" fg="FFCD22"/>
-      <style token="LITERAL_NUMBER_HEXADECIMAL" fg="FFCD22"/>
+      <style token="LITERAL_NUMBER_DECIMAL_INT" fg="ff8000"/>
+      <style token="LITERAL_NUMBER_FLOAT" fg="ff8000"/>
+      <style token="LITERAL_NUMBER_HEXADECIMAL" fg="ff8000"/>
       <style token="LITERAL_STRING_DOUBLE_QUOTE" fg="EC7600"/>
       <style token="LITERAL_CHAR" fg="EC7600"/>
       <style token="LITERAL_BACKQUOTE" fg="EC7600"/>

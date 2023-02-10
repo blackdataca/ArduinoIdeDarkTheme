@@ -86,7 +86,7 @@ editor.function.style = #d35400,plain
 
 # STRUCTURES
 editor.keyword3.style = #5E6D03,plain
-editor.reserved_word.style = #5E6D03,plain
+editor.reserved_word.style = #ff6600,bold
 
 
 # TEXT - LITERALS
@@ -107,7 +107,7 @@ editor.preprocessor.style = #5E6D03,plain
 editor.url.style = #81A421,plain
 
 # e.g. + - = /
-editor.operator.style = #aaaaaa,plain
+editor.operator.style = #ffcc00,plain
 
 
 # ?? maybe this is for words followed by a colon
