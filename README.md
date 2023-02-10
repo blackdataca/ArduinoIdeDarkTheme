@@ -13,7 +13,7 @@ or
 * Clone whole project into Sketchbook location. Default is `C:\Users\[yourname]\Documents\Arduino\theme` (Target is `theme`, not `ArduinoIdeDarkTheme`)
 
 ![screenshot](https://raw.githubusercontent.com/blackdataca/ArduinoIdeDarkTheme/master/clone_screen.PNG)
-* Restart Arduino IDE.
+* Restart Arduino IDE
 
 ### CREATING YOUR OWN MODS
 The newest version of the Arduino IDE makes creating custom themes trickier: you now need to edit the `theme.txt` file, an XML file inside the `syntax` folder, and the button files. Unfortunately, not all items in the `theme.txt` file actually work, so if you can't get an item to change, try another one of the files.
